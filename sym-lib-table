@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name BQ24600RVAR)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/BQ24600RVAR/2019-09-12_18-29-35/2019-09-12_18-29-35.lib)(options "")(descr ""))
+  (lib (name TPS65286RHDR)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/TPS65286RHDR/2019-09-12_19-31-47/2019-09-12_19-31-47.lib)(options "")(descr ""))
+  (lib (name BQ24617RGET)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/BQ24617RGET/2019-09-12_20-48-59/2019-09-12_20-48-59.lib)(options "")(descr ""))
+  (lib (name BQ25887RGER)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/BQ25887RGER/BQ25887RGER.lib)(options "")(descr ""))
+  (lib (name BQ29200DRBT)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/BQ29200DRBT/2019-10-14_01-23-23/2019-10-14_01-23-23.lib)(options "")(descr ""))
+  (lib (name SI7617DN-T1-GE3)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/SI7617DN-T1-GE3/SI7617DN-T1-GE3.lib)(options "")(descr ""))
+)
