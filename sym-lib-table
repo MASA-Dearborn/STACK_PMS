@@ -5,4 +5,5 @@
   (lib (name BQ25887RGER)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/BQ25887RGER/BQ25887RGER.lib)(options "")(descr ""))
   (lib (name BQ29200DRBT)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/BQ29200DRBT/2019-10-14_01-23-23/2019-10-14_01-23-23.lib)(options "")(descr ""))
   (lib (name SI7617DN-T1-GE3)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/SI7617DN-T1-GE3/SI7617DN-T1-GE3.lib)(options "")(descr ""))
+  (lib (name Batteryboard-rescue)(type Legacy)(uri ${KIPRJMOD}/Batteryboard-rescue.lib)(options "")(descr ""))
 )
