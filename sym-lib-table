@@ -6,4 +6,7 @@
   (lib (name BQ29200DRBT)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/BQ29200DRBT/2019-10-14_01-23-23/2019-10-14_01-23-23.lib)(options "")(descr ""))
   (lib (name SI7617DN-T1-GE3)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/SI7617DN-T1-GE3/SI7617DN-T1-GE3.lib)(options "")(descr ""))
   (lib (name Batteryboard-rescue)(type Legacy)(uri ${KIPRJMOD}/Batteryboard-rescue.lib)(options "")(descr ""))
+  (lib (name MASA-LIB)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/MASA_Library/MASA_Library.lib)(options "")(descr ""))
+  (lib (name TPS76901DBVR)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/TPS76901DBVR/2019-12-23_03-35-17.lib)(options "")(descr ""))
+  (lib (name TPS65279DAPR)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/TPS65279DAPR/2019-12-24_21-17-47/2019-12-24_21-17-47.lib)(options "")(descr ""))
 )
