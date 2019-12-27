@@ -10,4 +10,5 @@
   (lib (name TPS76901DBVR)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/TPS76901DBVR/2019-12-23_03-35-17.lib)(options "")(descr ""))
   (lib (name TPS65279DAPR)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/TPS65279DAPR/2019-12-24_21-17-47/2019-12-24_21-17-47.lib)(options "")(descr ""))
   (lib (name PIC18F25K50-ISO)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PDAMP/PIC18F25K50ISO/2019-12-25_00-18-44/2019-12-25_00-18-44.lib)(options "")(descr ""))
+  (lib (name FAN4010IL6X_F113)(type Legacy)(uri C:/Users/kylej/Documents/KiCad/PMS_STACK/FAN4010IL6X_F113.lib)(options "")(descr ""))
 )

@@ -10,4 +10,5 @@
   (lib (name TPS76901DBVR)(type KiCad)(uri C:/Users/kylej/Documents/KiCad/PDAMP/TPS76901DBVR/footprints.pretty)(options "")(descr ""))
   (lib (name TPS65279DAPR)(type KiCad)(uri C:/Users/kylej/Documents/KiCad/PDAMP/TPS65279DAPR/2019-12-24_21-17-47/footprints.pretty)(options "")(descr ""))
   (lib (name PIC18F25K50-ISO)(type KiCad)(uri C:/Users/kylej/Documents/KiCad/PDAMP/PIC18F25K50ISO/2019-12-25_00-18-44/footprints.pretty)(options "")(descr ""))
+  (lib (name FAN4010IL6X_F113)(type KiCad)(uri C:/Users/kylej/Documents/KiCad/MASA_Library)(options "")(descr ""))
 )

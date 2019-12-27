@@ -337,6 +337,31 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# FAN4010IL6X_F113_FAN4010IL6X_F113
+#
+DEF FAN4010IL6X_F113_FAN4010IL6X_F113 IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "FAN4010IL6X_F113_FAN4010IL6X_F113" 950 200 50 H V L CNN
+F2 "6-LEAD_MICROPAK" 950 100 50 H I L CNN
+F3 "http://pdl.designspark.com/api/v1/manufacturers/53f31bb99b4759f8698ebd6d/part/54f601839b4759c27e8ce92c/54f601849b4759c27e8ce954/1pdf" 950 0 50 H I L CNN
+F4 "Current Sense Amplifier Single Single Ended 6-Pin MLP" 950 -100 50 H I L CNN "Description"
+F5 "ON Semiconductor" 950 -300 50 H I L CNN "Manufacturer_Name"
+F6 "FAN4010IL6X_F113" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F7 "512-FAN4010IL6X_F113" 950 -500 50 H I L CNN "Mouser Part Number"
+F8 "http://www.mouser.com/Search/ProductDetail.aspx?qs=bXpVsf6NmSLCEHlKPwERMg%3d%3d" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F9 "8650874P" 950 -700 50 H I L CNN "RS Part Number"
+F10 "http://uk.rs-online.com/web/p/products/8650874P" 950 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+X VIN 1 0 0 200 R 50 50 0 0 U
+X NC_1 2 0 -100 200 R 50 50 0 0 U
+X IOUT 3 0 -200 200 R 50 50 0 0 U
+X NC_2 4 1100 0 200 L 50 50 0 0 U
+X GND 5 1100 -100 200 L 50 50 0 0 U
+X LOAD 6 1100 -200 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
 # Interface_CAN_LIN_MCP2515-xSO
 #
 DEF Interface_CAN_LIN_MCP2515-xSO U 0 20 Y Y 1 F N

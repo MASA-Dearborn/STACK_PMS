@@ -1,4 +1,4 @@
-16321485466565442
+16324639944516621
 BQ24600RVAR
 BQ24600RVAR
 
@@ -44540,6 +44540,13 @@ single digit 7 segemnt red/green LED
 0
 10
 10
+FAN4010IL6X_F113
+6-LEAD_MICROPAK
+6-Lead_MicroPak
+Integrated Circuit
+0
+6
+6
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -49666,6 +49673,13 @@ MP5077GG-Z
 12
 MASA-LIB
 Stack_Connector_2019_2020
+TFC-120-32-F-D-A-K-TR-1
+Connector
+0
+40
+40
+MASA-LIB
+bottom_Stack_Connector_2019_2020
 TFC-120-32-F-D-A-K-TR-1
 Connector
 0
