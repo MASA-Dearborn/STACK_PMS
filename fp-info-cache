@@ -1,4 +1,4 @@
-16312022743384081
+16326218949736263
 BQ24600RVAR
 BQ24600RVAR
 
@@ -49650,6 +49650,48 @@ Yellow 5381 Series LED
 0
 2
 2
+MASA-LIB
+6-LEAD_MICROPAK
+6-Lead_MicroPak
+Integrated Circuit
+0
+6
+6
+MASA-LIB
+472192001
+47219-2001
+Connector
+0
+12
+12
+MASA-LIB
+BL654PA
+
+
+0
+80
+80
+MASA-LIB
+MP5077GG-Z
+
+
+0
+12
+12
+MASA-LIB
+Stack_Connector_2019_2020
+TFC-120-32-F-D-A-K-TR-1
+Connector
+0
+40
+40
+MASA-LIB
+bottom_Stack_Connector_2019_2020
+TFC-120-32-F-D-A-K-TR-1
+Connector
+0
+40
+40
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -51421,6 +51463,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PIC18F25K50-ISO
+PIC18F25K50-I&slash_SO
+
+
+0
+28
+28
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -67878,6 +67927,13 @@ Logo WEEE
 0
 0
 0
+TPS65279DAPR
+TPS65279DAPR
+
+
+0
+37
+37
 TPS65286RHDR
 TPS65286RHDR
 
@@ -67885,6 +67941,13 @@ TPS65286RHDR
 0
 45
 30
+TPS76901DBVR
+TPS76901DBVR
+
+
+0
+5
+5
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
