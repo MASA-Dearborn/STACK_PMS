@@ -4049,4 +4049,32 @@ F 11 "http://uk.rs-online.com/web/p/products/8650874P" H 11050 850 50  0001 L CN
 	1    10100 1650
 	1    0    0    1   
 $EndComp
+$Comp
+L Connector:Conn_01x04_Male J6
+U 1 1 5E406AAF
+P 6850 11050
+F 0 "J6" H 6958 11331 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 6958 11240 50  0000 C CNN
+F 2 "5013310407:1734595-4" H 6850 11050 50  0001 C CNN
+F 3 "~" H 6850 11050 50  0001 C CNN
+	1    6850 11050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 5E531ADE
+P 7050 11050
+F 0 "#PWR0107" H 7050 10800 50  0001 C CNN
+F 1 "GND" V 7055 10922 50  0000 R CNN
+F 2 "" H 7050 11050 50  0001 C CNN
+F 3 "" H 7050 11050 50  0001 C CNN
+	1    7050 11050
+	0    -1   -1   0   
+$EndComp
+Text GLabel 7050 10950 2    50   Input ~ 0
+5V
+Text GLabel 7050 11150 2    50   Input ~ 0
+CAN_H
+Text GLabel 7050 11250 2    50   Input ~ 0
+CAN_L
 $EndSCHEMATC
