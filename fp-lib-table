@@ -16,4 +16,5 @@
   (lib (name 1-1123723-2)(type KiCad)(uri C:/Users/kylej/Documents/KiCad/PDAMP/1-1123723-2/footprints.pretty)(options "")(descr ""))
   (lib (name LMR62014XMFENOPB)(type KiCad)(uri C:/Users/kylej/Documents/KiCad/PDAMP/LMR62014XMFENOPB/footprints.pretty)(options "")(descr ""))
   (lib (name 5013310407)(type KiCad)(uri C:/Users/kylej/Documents/KiCad/PDAMP/5013310407/footprints.pretty)(options "")(descr ""))
+  (lib (name TESTPOINT)(type KiCad)(uri C:/Users/kylej/Documents/KiCad/PDAMP/TESTPOINT.pretty)(options "")(descr ""))
 )
