@@ -2894,21 +2894,6 @@ F 3 "" H 15000 10150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Batteryboard-rescue:SC_19-20-MASA-LIB J5
-U 1 1 5E021180
-P 1900 7150
-F 0 "J5" H 1900 7315 50  0000 C CNN
-F 1 "SC_19-20" H 1900 7224 50  0000 C CNN
-F 2 "MASA-LIB:bottom_Stack_Connector_2019_2020" H 1650 7300 50  0001 L CNN
-F 3 "" H 1650 7800 50  0001 L CNN
-F 4 "Conn Shrouded Header HDR 40 POS 1.27mm Solder ST SMD T/R" H 1650 7700 50  0001 L CNN "Description"
-F 5 "11.35" H 1650 7500 50  0001 L CNN "Height"
-F 6 "SAMTEC" H 1650 7400 50  0001 L CNN "Manufacturer_Name"
-F 7 "TFC-120-32-F-D-A-K-TR" H 1650 7600 50  0001 L CNN "Manufacturer_Part_Number"
-	1    1900 7150
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR0133
 U 1 1 5E02CE50
 P 2550 8950
@@ -4203,4 +4188,19 @@ Wire Wire Line
 Connection ~ 12700 4350
 Wire Wire Line
 	12700 4350 12450 4350
+$Comp
+L MASA-LIB:SC_19-20 J7
+U 1 1 5E686151
+P 1900 7150
+F 0 "J7" H 1900 7315 50  0000 C CNN
+F 1 "SC_19-20" H 1900 7224 50  0000 C CNN
+F 2 "MASA_Library:Stack_Connector_2019_2020" H 1650 7300 50  0001 L CNN
+F 3 "" H 1650 7800 50  0001 L CNN
+F 4 "Conn Shrouded Header HDR 40 POS 1.27mm Solder ST SMD T/R" H 1650 7700 50  0001 L CNN "Description"
+F 5 "11.35" H 1650 7500 50  0001 L CNN "Height"
+F 6 "SAMTEC" H 1650 7400 50  0001 L CNN "Manufacturer_Name"
+F 7 "TFC-120-32-F-D-A-K-TR" H 1650 7600 50  0001 L CNN "Manufacturer_Part_Number"
+	1    1900 7150
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
